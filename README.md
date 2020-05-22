@@ -1,7 +1,7 @@
 # tdd-in-react-starter
 Starter repository for lab in software development methodologies 
 
-### `npm start` after cloning the repository 
+#### `npm start` after cloning the repository 
 
 
 ##### Credits
